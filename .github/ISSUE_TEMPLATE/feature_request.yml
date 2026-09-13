@@ -1,0 +1,31 @@
+name: Feature request
+description: Suggest an improvement to Mornye.
+title: "[Feature]: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Describe your use case before proposing a solution.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Relevant platform
+      options:
+        - Mac
+        - iPhone
+        - Both
+        - Future platform support
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives or examples
+      description: Optional. Explain what you have tried or attach a reference with its source.

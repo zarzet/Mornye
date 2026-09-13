@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Help and troubleshooting
+    url: https://mornye.com/support.html
+    about: Read the support guide before opening an issue.

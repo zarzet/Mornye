@@ -1,0 +1,21 @@
+# Documentation-only repository. New files require an explicit allowlist entry.
+*
+!.gitignore
+!README.md
+!CHANGELOG.md
+!SUPPORT.md
+!CONTRIBUTING.md
+!SECURITY.md
+!assets/
+!assets/readme/
+!assets/readme/banner-dark.svg
+!assets/readme/banner-light.svg
+!assets/readme/mac-dark.svg
+!assets/readme/mac-light.svg
+!assets/readme/iphone-dark.svg
+!assets/readme/iphone-light.svg
+!.github/
+!.github/ISSUE_TEMPLATE/
+!.github/ISSUE_TEMPLATE/bug_report.yml
+!.github/ISSUE_TEMPLATE/feature_request.yml
+!.github/ISSUE_TEMPLATE/config.yml
