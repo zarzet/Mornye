@@ -4,13 +4,13 @@ User-facing changes to Mornye are recorded here. Versions appear in reverse chro
 
 ## [Unreleased]
 
-### 0.1 Open Beta · build 2
+### 0.1 · build 2
 
-The first public beta is in preparation. No public release date or download is available yet.
+The first release is in preparation. No public release date or download is available yet.
 
 ### Added
 
-- A one-time beta welcome with bug-report and sharing shortcuts on Mac and iPhone.
+- A one-time welcome with bug-report and sharing shortcuts on Mac and iPhone.
 - Native local music playback and library browsing on Mac and iPhone.
 - Import through Files/Finder, Mac drag and drop, and recursive folder scanning with duplicate detection.
 - Library Settings for choosing, changing, rescanning and disconnecting a music source folder.
@@ -26,6 +26,13 @@ The first public beta is in preparation. No public release date or download is a
 
 ### Improved
 
+- Simplified the release name to Mornye 0.1 across the app and website.
+- Now Playing artwork smoothly grows during playback and shrinks when paused on Mac and iPhone.
+- Mac Now Playing groups Close and MiniPlayer controls in a glass capsule. Hovering over the player-bar cover reveals an expand icon, with a separate seeking area below the artwork.
+- Consistent Mornye red accents in iPhone library navigation, toolbars and settings, including after appearance changes.
+- Timed lyrics softly blur inactive lines, keep the current line sharp, and reveal other lines clearly on hover.
+- Clearer active and inactive lyrics/queue controls over light artwork in Mac Now Playing.
+- The desktop progress line resizes smoothly with the player when opening or closing the lyrics or queue sidebar.
 - Home shelves use one horizontally scrolling row for sessions, albums and playlists.
 - Artist and album layouts, player metadata, track-skip animations and title scrolling.
 - Empty-library content centers within the available Home area.
@@ -34,7 +41,7 @@ The first public beta is in preparation. No public release date or download is a
 - iPhone mini-player text and controls follow the page appearance when switching between light and dark modes.
 - Settings keeps format lists and audio explanations inside the collapsed About Audio section.
 
-### Beta limitations
+### Current limitations
 
 - Apple signing and public distribution are still being prepared.
 - Physical receiver compatibility and wider device testing remain ongoing.

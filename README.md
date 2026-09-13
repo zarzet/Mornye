@@ -7,7 +7,7 @@
 </picture>
 
 <p>
-  <a href="CHANGELOG.md"><img alt="0.1 Open Beta" src="https://img.shields.io/badge/0.1-Open_Beta-596554?style=for-the-badge"></a>
+  <a href="CHANGELOG.md"><img alt="0.1" src="https://img.shields.io/badge/version-0.1-596554?style=for-the-badge"></a>
   <a href="#availability"><img alt="Native for Mac and iPhone" src="https://img.shields.io/badge/Mac_%26_iPhone-Native-363833?style=for-the-badge&amp;logo=apple&amp;logoColor=white"></a>
 </p>
 
@@ -22,7 +22,7 @@ Mornye gives your local music a home on Mac and iPhone. Import your files, explo
 Local playback works offline, without an account. Your music and listening profile stay on your device.
 
 > [!NOTE]
-> **0.1 Open Beta is being prepared.** Public downloads are not available yet. The interface and features are still being polished. Official download or TestFlight links will appear on [mornye.com](https://mornye.com/#download) when available.
+> **0.1 is being prepared.** Public downloads are not available yet. The interface and features are still being polished. Official download or TestFlight links will appear on [mornye.com](https://mornye.com/#download) when available.
 
 ## Screenshots
 
@@ -45,8 +45,8 @@ Local playback works offline, without an account. Your music and listening profi
 
 | Platform | Minimum system | Status |
 | --- | --- | --- |
-| Mac | macOS 26 or later | 0.1 Open Beta in preparation |
-| iPhone | iOS 26 or later | 0.1 Open Beta in preparation |
+| Mac | macOS 26 or later | 0.1 in preparation |
+| iPhone | iOS 26 or later | 0.1 in preparation |
 | Windows | To be announced | Support will follow |
 | Android | To be announced | Support will follow |
 
@@ -132,15 +132,15 @@ When you choose a Cast receiver, Mornye sends the selected audio and its metadat
 
 Read the [privacy policy](https://mornye.com/privacy.html) for details on local data, backups, deletion and optional network use.
 
-## Beta notes
+## Release notes
 
-The first beta is a starting point, and polish is ongoing. Current limits include:
+The first version is a starting point, and polish is ongoing. Current limits include:
 
 - Output quality depends on the operating system, connection and audio device. Exclusive bit-perfect hardware output and guaranteed gapless playback are not claimed.
 - AirPlay and Google Cast still need broader physical-device testing. Keep Mornye open when casting local files; background Cast hosting is not guaranteed.
 - No published Windows or Android build yet.
 
-Bugs, rough edges and behavior changes are expected during beta. See [CHANGELOG.md](CHANGELOG.md) for the current development notes.
+Bugs, rough edges and behavior changes are possible in this early version. See [CHANGELOG.md](CHANGELOG.md) for the current development notes.
 
 ## FAQ
 

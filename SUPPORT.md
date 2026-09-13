@@ -27,7 +27,7 @@ A short screenshot or recording is helpful. Remove names, paths, account details
 
 **Output quality differs from the source:** check Audio Quality in Now Playing. The system and connected audio device determine the final output format.
 
-**Cast is unreliable:** keep Mornye open, allow local-network access and use a receiver on the same network. Receiver compatibility is still being tested during beta.
+**Cast is unreliable:** keep Mornye open, allow local-network access and use a receiver on the same network. Receiver compatibility is still being tested.
 
 ## Private support
 
